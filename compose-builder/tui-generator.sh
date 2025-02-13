@@ -75,6 +75,7 @@ declare -A deviceServiceDesc=(
     [ds-uart]="Include UART Device Service"
     [ds-llrp]="Include RFID LLRP Device Service"
     [ds-s7]="Include S7 Device Service"
+    [ds-opcua]="Include OPC-UA Device Service"
 )
 
 ## Message Bus Descriptions
